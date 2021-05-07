@@ -1,0 +1,4 @@
+node_modules
+
+# Android folder
+android/app/build
